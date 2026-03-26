@@ -1,5 +1,5 @@
 # netflix-dcf-valuation-model
-“3-statement DCF valuation model of Netflix Inc. with revenue modelling, sensitivity analysis, and investment thesis.”
+3-statement DCF valuation model of Netflix Inc. with revenue modelling, sensitivity analysis, and investment thesis.
 A complete 3-statement Discounted Cash Flow (DCF) valuation model built on Netflix Inc. to analyze its intrinsic value, financial performance, and long-term growth potential.
 
 The goal of this project was to:
