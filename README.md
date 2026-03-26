@@ -24,10 +24,25 @@ Subscriber growth
 ARPU expansion
 Ad-supported tier
 
+Cost & Margin Assumptions
+Content cost optimization
+Marketing efficiency
+Operating leverage
+
+3-Statement Model
+Income Statement
+Balance Sheet
+Cash Flow Statement
+
 DCF Valuation
 Forecast: 2026–2030
 WACC: 9.11%
 Terminal Growth: 3.5%
+
+Key Results
+Enterprise Value	$304.9B
+Equity Value	$310.6B
+Intrinsic Value / Share	$73.61
 
 Forecast Highlights
 Revenue: $51.9B → $80.0B
@@ -44,3 +59,11 @@ Importance of assumptions
 Regional revenue dynamics
 Terminal value dominance in DCF
 Operating leverage impact
+
+Tools Used
+Microsoft Excel
+Financial Modelling
+DCF Valuation
+
+Disclaimer
+This project is for educational purposes only and does not constitute investment advice.
